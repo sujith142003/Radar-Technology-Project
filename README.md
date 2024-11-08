@@ -85,7 +85,7 @@ Autonomous Mode: Switch to autonomous mode to enable self-navigation and target 
 
 **Contributors:**
 
-Sujith G. GitHub
+Sujith G
 
 Jeevabharathi R
 
