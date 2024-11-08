@@ -63,6 +63,7 @@ Prerequisites:
 Installation
   Clone the repository:
     bash
+    
     Copy code:
     git clone https://github.com/sujith142003/automatic-targeting-military-radar-vehicle
   Set up the hardware components as per the circuit diagram (refer to the documentation).
