@@ -26,52 +26,55 @@ ESP32 CAM: Streams live video for target confirmation and visual identification.
 Ultrasonic Sensors: Facilitates autonomous navigation by detecting and avoiding obstacles.
 Bluetooth Interface (ESP32): Allows remote control in manual mode via a mobile application.
 
-How It Works, Manual Operation
+**How It Works:** 
+**Manual Operation**
 
 The vehicle is controlled via a mobile app over Bluetooth, using an ESP32 interface.
 The radar continuously scans for potential enemy vehicles.
 The ESP32 CAM streams real-time footage for visual confirmation.
 The operator can lock onto and neutralize the detected target, providing precise control in sensitive scenarios.
-Autonomous Operation
+
+**Autonomous Operation**
+
 The vehicle operates independently, using ultrasonic sensors for obstacle detection and avoidance.
 Radar continuously monitors for threats.
 Once a target is detected and confirmed by the camera, the vehicle autonomously locks and neutralizes the enemy, avoiding obstacles along the way.
 
-Applications
+**Applications**
 
 Combat and Warfare: Enhances soldier safety by detecting and neutralizing enemy vehicles autonomously.
 Surveillance and Border Security: Ideal for autonomous patrolling and monitoring in high-risk zones.
 Disaster Response: Adaptable for search-and-rescue operations in hazardous terrains.
 
-Challenges and Future Improvements: 
-
+**Challenges and Future Improvements:**
 Signal Interference: Enhancing radar and camera accuracy to function reliably in complex signal environments.
 Real-Time Processing: Improving processing speeds to ensure minimal delays for responsive targeting.
 
-Conclusion:
+**Conclusion:**
 
 The Automatic Targeting Military Radar Vehicle offers a next-gen solution for military applications by combining radar, camera, and autonomous technologies. With both manual and autonomous modes, it provides versatility and safety enhancements suitable for modern warfare and other high-risk applications.
 
-Getting Started
+**Getting Started**
 
-Prerequisites:
-  Arduino IDE
-  Java Runtime Environment (for control interface)
-  Bluetooth-enabled device for remote control
-  Required libraries:
-  ESP32
-  Ultrasonic Sensor Library
-Installation
+  **Prerequisites:**
+    Arduino IDE
+    Java Runtime Environment (for control interface)
+    Bluetooth-enabled device for remote control
+    Required libraries:
+    ESP32
+    Ultrasonic Sensor Library
+    
+**Installation** 
   Clone the repository:
-    bash
     
     Copy code:
     git clone https://github.com/sujith142003/automatic-targeting-military-radar-vehicle
+    
   Set up the hardware components as per the circuit diagram (refer to the documentation).
   Upload the Arduino code in the src directory to your Arduino Uno.
   Connect via Bluetooth to the ESP32 interface for manual control.
-  
-Usage:
+
+**Usage:**
 
 Manual Mode: Connect to the ESP32 interface via a mobile app and control the vehicle remotely.
 Autonomous Mode: Switch to autonomous mode to enable self-navigation and target engagement.
@@ -80,7 +83,7 @@ Autonomous Mode: Switch to autonomous mode to enable self-navigation and target 
 
 
 
-Contributors:
+**Contributors:**
 
 Sujith G. GitHub
 
