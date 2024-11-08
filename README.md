@@ -1,10 +1,12 @@
 Automatic Targeting Military Radar Vehicle 🚀
 "A smarter vehicle for a safer mission."
 
-Project Overview
+Project Overview: 
+
 The Automatic Targeting Military Radar Vehicle is a semi-autonomous, radar-equipped vehicle designed to assist soldiers in high-risk combat environments. With both manual and autonomous operational modes, this project aims to reduce direct human involvement in hazardous situations, enhancing safety and mission efficiency. The vehicle detects and targets enemy vehicles using a combination of radar and camera technologies, and it's remotely controllable via Bluetooth using an ESP32 interface.
 
-Problem Statement
+Problem Statement:
+
 Modern combat environments demand fast, accurate responses, often exposing soldiers to life-threatening situations. This project proposes a solution that leverages technology to assist soldiers, reducing the need for direct human involvement in combat and high-risk areas. By equipping a vehicle with a radar for detection and a camera for targeting, we aim to improve operational safety and efficiency.
 
 Features
