@@ -68,7 +68,7 @@ The Automatic Targeting Military Radar Vehicle offers a next-gen solution for mi
   Clone the repository:
     
     Copy code:
-    git clone https://github.com/sujith142003/automatic-targeting-military-radar-vehicle
+    git clone [https://github.com/sujith142003/automatic-targeting-military-radar-vehicle](https://github.com/sujith142003/Radar-Technology-Project/blob/main/Automatic%20Targeting%20Military%20Radar%20Vehicle.jpg)
     
   Set up the hardware components as per the circuit diagram (refer to the documentation).
   Upload the Arduino code in the src directory to your Arduino Uno.
